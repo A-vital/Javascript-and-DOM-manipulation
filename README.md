@@ -1,4 +1,4 @@
-# javascript-challenge  
+# Javascript-challenge  
 <h1> Javascript Homework - JavaScript and DOM Manipulation </h1>
 
 ![nasa](https://user-images.githubusercontent.com/71558024/109744191-e2cc7a00-7b9f-11eb-8b96-9d154dcce3e7.jpg)
