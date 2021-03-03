@@ -1,8 +1,7 @@
 
 // UFO Sightings - Javascript
-
 // Variable Declaration
-let tbody = d3.select("body");
+let tbody = d3.select("tbody");
 
 // from data.js
 var tableData = data;
