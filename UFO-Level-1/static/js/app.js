@@ -1,14 +1,13 @@
 // from data.js
 var tableData = data;
 
-// from data.js
-var tableData = data;
-
-
 // UFO Sightings - Javascript
 
 // Variable Declaration
-let tb = d3.select("body");
+let tbody = d3.select("body");
+
+// from data.js
+var tableData = data;
 
 // Function Build Table
 function buildTable(data){
