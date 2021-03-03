@@ -1,5 +1,6 @@
 # javascript-challenge  
-Javascript Homework - JavaScript and DOM Manipulation
+<h1> Javascript Homework - JavaScript and DOM Manipulation </h1>
+
 ![nasa](https://user-images.githubusercontent.com/71558024/109744191-e2cc7a00-7b9f-11eb-8b96-9d154dcce3e7.jpg)
 
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at ALIENS-R-REAL have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
