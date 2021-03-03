@@ -1,5 +1,3 @@
-// from data.js
-var tableData = data;
 
 // UFO Sightings - Javascript
 
@@ -12,11 +10,11 @@ var tableData = data;
 // Function Build Table
 function buildTable(data){
     // Start By Clearing Existing Data
-    tb.html("");
+    tbody.html("");
     // Loop Through `data` 
     data.forEach((dataRow) => {
         // Append Table Row `tr` to the Table Body `tbody`
-        let row = tb.append("tr");
+        let row = tbody.append("tr");
         // `Object.values` & `forEach` to Iterate Through Values
         Object.values(dataRow).forEach((val) => {
             // Append a Cell to the Row for Each Value
